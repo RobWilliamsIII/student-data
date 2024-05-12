@@ -1,0 +1,20 @@
+~~~~~~~~~~~
+Student Name: Emily 
+Address: 7231 Cobblestone Dr. Chicago, IL 60621 
+GPA: 3.6
+
+~~~~~~~~~~~
+Student Name: Rico 
+Address: 795 Windfall Lane Cedar Falls, IA 50613 
+GPA: 3.1
+
+~~~~~~~~~~~
+Student Name: Sasha 
+Address: 898 Pumpkin Hill Dr. Harrisburg, PA 17109 
+GPA: 4.1
+
+~~~~~~~~~~~
+Student Name: Yadi 
+Address: 298 S. Willow St. Newnan, GA 30263 
+GPA: 2.7
+
